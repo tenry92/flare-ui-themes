@@ -1,0 +1,25 @@
+{
+  "name": "jae-ui-themes",
+  "version": "0.1.0",
+  "description": "CSS themes for the Jae UI widget toolkit.",
+  "keywords": [
+    "css",
+    "framework",
+    "front-end",
+    "jae-ui"
+  ],
+  "scripts": {
+    "build": "MODE=production node scripts/build-themes.mjs",
+    "watch": "npm run build -- --watch",
+    "prepare": "npm run build"
+  },
+  "author": "Simon \"Tenry\" Burchert",
+  "license": "MIT",
+  "devDependencies": {
+    "chalk": "^4.1.2",
+    "sass": "^1.47.0"
+  },
+  "files": [
+    "dist"
+  ]
+}
