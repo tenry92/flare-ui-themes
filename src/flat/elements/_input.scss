@@ -13,7 +13,9 @@
     background: var(--background-color-hover);
     color: var(--on-background-color-hover);
   }
+}
 
+#{utils.$prefix}text-input, #{utils.$prefix}number-input::part(input) {
   overflow: hidden;
 }
 
