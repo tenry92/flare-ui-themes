@@ -1,12 +1,12 @@
 {
-  "name": "jae-ui-themes",
-  "version": "0.1.1",
-  "description": "CSS themes for the Jae UI widget toolkit.",
+  "name": "flare-ui-themes",
+  "version": "0.2.0",
+  "description": "CSS themes for the Flare UI widget toolkit.",
   "keywords": [
     "css",
     "framework",
     "front-end",
-    "jae-ui"
+    "flare-ui"
   ],
   "scripts": {
     "build": "MODE=production node scripts/build-themes.mjs",

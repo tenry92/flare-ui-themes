@@ -1,7 +1,7 @@
-# Jae UI Themes
+# Flare UI Themes
 
 This package provides some CSS themes designed for
-[Jae UI](https://github.com/tenry92/jae-ui) 0.1.
+[Flare UI](https://github.com/tenry92/flare-ui) 0.2.
 
 For now this package only provides a single **flat** theme.
 
@@ -19,9 +19,9 @@ Contents:
 Choose one of the following options:
 
 - Download the latest release from GitHub
-- Install via npm: `npm install jae-ui-themes`
-- Install via yarn: `yarn add jae-ui-themes`
-- Clone the repo with `git clone https://github.com/tenry92/jae-ui-themes.git`,
+- Install via npm: `npm install flare-ui-themes`
+- Install via yarn: `yarn add flare-ui-themes`
+- Clone the repo with `git clone https://github.com/tenry92/flare-ui-themes.git`,
   run `npm install` (or `yarn`) and `npm run build` (or `yarn build`)
 
 Each theme provides a single CSS file, you have to link in your HTML, and

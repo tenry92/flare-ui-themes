@@ -1,7 +1,7 @@
 @use "sass:selector";
 @use "sass:string";
 
-$prefix: jae-;
+$prefix: flare-;
 
 @function to-string($list) {
   $result: null;
